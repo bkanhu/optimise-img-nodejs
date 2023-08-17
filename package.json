@@ -1,0 +1,31 @@
+{
+  "name": "optimise-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaceCode/boxobit-landing-page.git"
+  },
+  "keywords": [],
+  "author": "bkanhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaceCode/boxobit-landing-page/issues"
+  },
+  "homepage": "https://github.com/DaceCode/boxobit-landing-page#readme",
+  "type": "module",
+  "devDependencies": {
+    "compress-images": "^2.0.5",
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^8.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "gifsicle": "^5.2.1",
+    "pngquant-bin": "^6.0.1"
+  }
+}
